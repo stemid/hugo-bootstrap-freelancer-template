@@ -17,19 +17,7 @@
             {{ range $index, $element }}
 				<div class="col-md-4">
 					<div class="card mb-4 ">
-						<img class="card-img-top" src="{{.Permalink}}{{.Page.Params.Hero}}" alt="Card image cap">
-					  <div class="card-body">
-						<h5 class="card-title">{{ .Title }}</h5>
-						<p class="card-text text-center">{{ .Summary }}</p>
-					  </div>
-					  <div class="card-footer">
-						<div class="d-flex justify-content-between align-items-center">
-							<small class="text-muted">{{ .ReadingTime }} minute{{ if (ne .ReadingTime 1) }}s{{ end }}</small>
-							<div class="btn-group">
-							<a href="{{.URL}}" class="btn  btn-lg btn-primary">Read More</a>
-							</div>
-						</div>
-					  </div>
+						<a href="{{.URL}}" class="btn  btn-lg btn-primary"></a><img class="card-img-top" src="{{.Permalink}}{{.Page.Params.Hero}}" alt="Card image cap"></a>
 					</div>
 				  </div>                
 				{{ end }}
