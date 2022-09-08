@@ -1,8 +1,19 @@
-name = "Bootstrap Freelancer Template"
+name = "Bootstrap Freelancer"
 license = "MIT"
 licenselink = "https://github.com/joseph-mccarthy/hugo-bootstrap-freelancer-template/blob/main/LICENSE"
-description = "Bootstrap Freelancer Template"
+description = "Theme based on the Bootstrap Freelancer Template"
+
 homepage = "https://github.com/joseph-mccarthy/hugo-bootstrap-freelancer-template"
-demosite = "https://joseph-mccarthy.github.io/hugo-bootstrap-freelancer-template/"
-min_version = "0.20"
+
+demosite = "https://joseph-mccarthy.github.io/"
+
+tags = ["blog", "company", "Personal]
+features = ["bootstrap", "projects", "blog"]
+
+[author]
+    name = "Joseph mcCarthy"
+    homepage = "https://joseph-mccarthy.github.io/"
+
+
+
 
