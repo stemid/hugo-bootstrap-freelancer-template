@@ -1,5 +1,5 @@
 
-{{ $element :=  first .Site.Params.HomeProjects (where .Site.RegularPages.ByDate.Reverse "Section" "projects") }}}
+{{ $element :=  first .Site.Params.HomeProjects (where .Site.RegularPages.ByDate.Reverse "Section" "projects") }}
 
 
 {{ if $element }}
