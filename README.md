@@ -1,7 +1,8 @@
 # Bootstrap Freelancer Hugo Theme
 
-<div align="center">
+<div align="center"> 
 
+![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/joseph-mccarthy_hugo-bootstrap-freelancer-template?server=https%3A%2F%2Fsonarcloud.io&style=for-the-badge)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/joseph-mccarthy/hugo-bootstrap-freelancer-template?color=green&style=for-the-badge)
 
 </div>
