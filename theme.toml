@@ -7,13 +7,9 @@ homepage = "https://github.com/joseph-mccarthy/hugo-bootstrap-freelancer-templat
 
 demosite = "https://joseph-mccarthy.github.io/"
 
-tags = ["blog", "company", "Personal]
+tags = ["blog", "company", "Personal"]
 features = ["bootstrap", "projects", "blog"]
 
 [author]
     name = "Joseph mcCarthy"
     homepage = "https://joseph-mccarthy.github.io/"
-
-
-
-
