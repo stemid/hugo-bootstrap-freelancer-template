@@ -9,8 +9,6 @@
 
 </div>
 
-![Project Image](banner.png)
-
 ## Table of Contents
 
 - [Description](#description)
